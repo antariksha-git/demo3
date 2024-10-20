@@ -15,6 +15,8 @@ public class Demo3Application {
 
     //register 2
 
+    //delete user 1
+
     public static void main(String[] args) {
         SpringApplication.run(Demo3Application.class, args);
     }
